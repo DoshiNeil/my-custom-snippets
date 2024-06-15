@@ -6,8 +6,8 @@
   "contributes":{
     "snippets":[
       {
-        "language" : "typescriptreact",
-        "path" : "./snippets/typescriptreact.json"
+        "language" : "typescript",
+        "path" : "./snippets/typescript.json"
       }
     ],
   }
