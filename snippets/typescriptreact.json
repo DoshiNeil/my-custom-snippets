@@ -1,0 +1,6 @@
+{
+  "typescriptReact component with empty props": {
+    "prefix": "rc",
+    "body":"type $1:componentName:nameProps = {};\nconst $1:componentName:React.FC<$1:componentNameProps> = () => {\nreturn <>$0</>\n\t};\n\nexport default $1:componentName;"
+  },
+}
